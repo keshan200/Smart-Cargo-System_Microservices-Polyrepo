@@ -1,3 +1,6 @@
 [submodule "Config-Server"]
 	path = Config-Server
 	url = https://github.com/keshan200/Config-Server.git
+[submodule "Eureka-Server"]
+	path = Eureka-Server
+	url = https://github.com/keshan200/Eureka-Server.git
