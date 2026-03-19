@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Smart-Cargo-System_Microservices-Polyrepo.iml" filepath="$PROJECT_DIR$/.idea/Smart-Cargo-System_Microservices-Polyrepo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Config-Server/config-server/config-server.iml" filepath="$PROJECT_DIR$/Config-Server/config-server/config-server.iml" />
     </modules>
   </component>
 </project>
