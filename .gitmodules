@@ -1,0 +1,3 @@
+[submodule "Config-Server"]
+	path = Config-Server
+	url = https://github.com/keshan200/Config-Server.git
