@@ -7,3 +7,6 @@
 [submodule "API-Gateway"]
 	path = API-Gateway
 	url = https://github.com/keshan200/API-Gateway.git
+[submodule "Order-Service-"]
+	path = Order-Service-
+	url = https://github.com/keshan200/Order-Service-.git
