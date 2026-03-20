@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/Eureka-Server/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/API-Gateway/api-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/Order-Service-/Order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/SmartLogix-Tracking-Service/tacking-service/pom.xml" />
       </list>
     </option>
   </component>

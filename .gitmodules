@@ -10,3 +10,6 @@
 [submodule "Order-Service-"]
 	path = Order-Service-
 	url = https://github.com/keshan200/Order-Service-.git
+[submodule "SmartLogix-Tracking-Service"]
+	path = SmartLogix-Tracking-Service
+	url = https://github.com/keshan200/SmartLogix-Tracking-Service.git
