@@ -10,6 +10,13 @@
         <option value="$PROJECT_DIR$/Order-Service-/Order-service/pom.xml" />
         <option value="$PROJECT_DIR$/SmartLogix-Tracking-Service/tacking-service/pom.xml" />
         <option value="$PROJECT_DIR$/SmartLogix-Document-Proof-Service/document-proof-service/pom.xml" />
+        <option value="$PROJECT_DIR$/platform/SmartLogix-Config-Server/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/services/SmartLogix-Order-Service/Order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/services/SmartLogix-Document-Proof-Service/document-proof-service/pom.xml" />
+        <option value="$PROJECT_DIR$/platform/SmartLogix-Eureka-Server/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/platform/SmartLogix-API-Gateway/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/platform/pom.xml" />
       </list>
     </option>
   </component>

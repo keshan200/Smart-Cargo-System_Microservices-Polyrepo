@@ -11,9 +11,10 @@
         <module name="document-proof-service" />
         <module name="api-gateway" />
         <module name="Order-service" />
-        <module name="tacking-service" />
         <module name="order-service" />
+        <module name="tacking-service" />
         <module name="eureka-server" />
+        <module name="platform" />
       </profile>
     </annotationProcessing>
   </component>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+
+     <groupId>lk.ijse</groupId>
+     <artifactId>Smart-Cargo-System-Microservices-Ployrepo</artifactId>
+     <version>1.0.0</version>
+     <packaging>pom</packaging>
+
+
+    <modules>
+     <module>platform/SmartLogix-API-Gateway/api-gateway</module>
+     <module>platform/SmartLogix-Eureka-Server/eureka-server</module>
+     <module>platform/SmartLogix-Config-Server/config-server</module>
+     <module>services/SmartLogix-Document-Proof-Service/document-proof-service</module>
+     <module>services/SmartLogix-Order-Service/Order-service</module>
+     <module>services/SmartLogix-Tracking-Service/tacking-service</module>
+   </modules>
+
+</project>
