@@ -5,6 +5,7 @@
     <file url="file://$PROJECT_DIR$/Config-Server/config-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Eureka-Server/eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Order-Service-/Order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SmartLogix-Document-Proof-Service/document-proof-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SmartLogix-Tracking-Service/tacking-service/src/main/java" charset="UTF-8" />
   </component>
 </project>
