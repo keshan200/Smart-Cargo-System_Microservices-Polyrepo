@@ -1,0 +1,9 @@
+[submodule "platform"]
+	path = platform
+	url = https://github.com/keshan200/platform.git
+[submodule "services"]
+	path = services
+	url = https://github.com/keshan200/services.git
+[submodule "Smart-Cargo-System-Frontend"]
+	path = Smart-Cargo-System-Frontend
+	url = https://github.com/keshan200/Smart-Cargo-System-Frontend.git
