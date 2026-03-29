@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/platform/SmartLogix-Eureka-Server/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/platform/SmartLogix-API-Gateway/api-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/platform/pom.xml" />
+        <option value="$PROJECT_DIR$/services/pom.xml" />
       </list>
     </option>
   </component>
