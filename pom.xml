@@ -11,9 +11,7 @@
 
 
     <modules>
-     <module>platform/SmartLogix-API-Gateway/api-gateway</module>
-     <module>platform/SmartLogix-Eureka-Server/eureka-server</module>
-     <module>platform/SmartLogix-Config-Server/config-server</module>
+
      <module>services/SmartLogix-Document-Proof-Service/document-proof-service</module>
      <module>services/SmartLogix-Order-Service/Order-service</module>
      <module>services/SmartLogix-Tracking-Service/tacking-service</module>

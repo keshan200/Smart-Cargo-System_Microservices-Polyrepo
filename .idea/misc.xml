@@ -18,7 +18,20 @@
         <option value="$PROJECT_DIR$/platform/SmartLogix-API-Gateway/api-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/platform/pom.xml" />
         <option value="$PROJECT_DIR$/services/pom.xml" />
+        <option value="$PROJECT_DIR$/platform/SmartLogix-API-Gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/platform/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/platform/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/platform/eureka-server/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/platform/SmartLogix-API-Gateway/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/platform/SmartLogix-API-Gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/platform/SmartLogix-Config-Server/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/platform/SmartLogix-Eureka-Server/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/platform/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="openjdk-25" project-jdk-type="JavaSDK">
